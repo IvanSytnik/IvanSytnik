@@ -9,6 +9,12 @@ I build production web applications end to end: database schema and API design, 
 
 ## Selected projects
 
+### [DealRadar](https://github.com/IvanSytnik/dealradar) — marketplace deal-finder bot
+A Telegram bot that watches willhaben.at and kleinanzeigen.de searches and sends only listings worth opening, scored against per-model market medians instead of one blended price. Rules filter first, the LLM classifies only what passes (batched, cached, per-user daily budget) and never decides the price. GDPR erasure, parser health alerts, deployed on AWS with Terraform.
+
+`TypeScript · grammY · LLM (Anthropic) · zod · SQLite · Vitest · Docker · AWS (EC2, S3, CloudFront, SSM) · Terraform · GitHub Actions`  
+→ [Try the bot](https://t.me/dealradar_austria_bot)
+
 ### [restaurant-crm](https://github.com/IvanSytnik/restaurant-crm) — reservation CRM and public booking site
 A production reservation system used by a restaurant in Graz, replacing a paid booking SaaS. Best-fit table allocation with conflict detection and turnover buffers, a real-time floor plan, role-based access control, a trilingual DE/EN/UK interface and transactional email.
 
