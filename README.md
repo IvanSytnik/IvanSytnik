@@ -52,7 +52,7 @@ If you are a founder, B2B client, or engineering team looking to ship production
 
 ## Architectural Experiments & Pre-Launch Platforms
 
-- **[EnglishLearn](https://github.com/IvanSytnik/english-learn)** — Adaptive English learning platform featuring a standalone 3-layer mathematical learner model (DAG prerequisite graph, BKT+, IRT 2PL, FSRS spaced repetition, Thompson Sampling) built on an append-only event-sourced log. Verified by **158 unit and property-based tests**, including property-based checks with `fast-check`. *[Preview Deployment ↗](https://english-learn.sytnik-studio.com)*
+- **[EnglishLearn](https://github.com/IvanSytnik/english-learn)** — Adaptive English learning platform featuring a standalone 3-layer mathematical learner model (DAG prerequisite graph, BKT+, IRT 2PL, FSRS spaced repetition, Thompson Sampling) built on an append-only event-sourced log. Verified by **158 unit and property-based tests**, including property-based checks with `fast-check`. *[Preview Deployment ↗](https://englishlearn.sytnik-studio.com)*
 - **[StyleMe](https://github.com/IvanSytnik/styleme)** — AI hairstyle try-on SaaS monorepo. Features server-authoritative quotas, JWKS Supabase auth, and an ad-fraud prevention contour for rewarded credits using atomic Redis nonces (`DEL` single-use burn). Verified by **43 tests** (including dual-backend Upstash Redis contract tests). *[Preview ↗](https://styleme.sytnik-studio.com)*
 
 ---
@@ -69,7 +69,7 @@ If you are a founder, B2B client, or engineering team looking to ship production
 ## Client Work & Background
 
 - **Independent Full-Stack Delivery ([Sytnik Studio](https://github.com/IvanSytnik/sytnik-studio) — [sytnik-studio.com](https://sytnik-studio.com)):** Full-stack contract engineering for clients in Austria and Germany (registered sole proprietorship, EU B2B reverse-charge ready). Built with Next.js 15, Drizzle/Neon, no-JS progressive enhancement, and localized legal pages (`Impressum`, `Datenschutzerklärung`).
-- **Commercial Client Delivery:** Built **[MedConsult Pro](https://github.com/IvanSytnik/medconsult-pro)** ([medconsult-pro.sytnik-studio.com](https://medconsult-pro.sytnik-studio.com)), a 4-locale medical-tourism lead-generation platform with dual Telegram and SMTP routing.
+- **Commercial Client Delivery:** Built **[MedConsult Pro](https://github.com/IvanSytnik/medconsult-pro)** ([medconsult-pro.sytnik-studio.com](https://medconsult.sytnik-studio.com)), a 4-locale medical-tourism lead-generation platform with dual Telegram and SMTP routing.
 - **Teaching & Mentorship:** Former Teaching Assistant at **ROBOCODE** (Villingen-Schwenningen, Germany), teaching robotics and programming to kids aged 7–14.
 - **Education:** **MSc** (2025) and **BSc** in Computer Science, NTU "Kharkiv Polytechnic Institute" (KhPI).
 
