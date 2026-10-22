@@ -52,7 +52,7 @@ I build and ship production web systems and resilient backend services, focusing
 * **Technical Solution:** 3-layer learner model (DAG prerequisite graph, BKT+ with IRT 2PL, FSRS spaced repetition) with a Thompson Sampling selection policy over an append-only event-sourced log.
 * **Verification:** 158 tests across the model package, including property-based tests via `fast-check` to verify DAG acyclicity and state-fold invariants.
 * *Stack: Next.js 16, TypeScript, Turborepo, Prisma, PostgreSQL (Neon), fast-check, Vitest*
-* *Links:* [GitHub Repo](https://github.com/IvanSytnik/english-learn) · [Preview Deployment ↗](https://english-learn-web-two.vercel.app)
+* *Links:* [GitHub Repo](https://github.com/IvanSytnik/english-learn) · [Preview Deployment ↗](https://englishlearn.sytnik-studio.com)
 
 </details>
 
@@ -63,7 +63,7 @@ I build and ship production web systems and resilient backend services, focusing
 * **Technical Solution:** Server-authoritative daily allowances, Supabase ES256 JWKS authentication, and single-use nonces burned atomically via Redis `DEL`.
 * **Verification:** Dual-backend contract tests validating identical behavior across local fallbacks and Upstash Redis.
 * *Stack: Next.js 16, Express, TypeScript, Supabase, Upstash Redis, Replicate, Vitest*
-* *Links:* [GitHub Repo](https://github.com/IvanSytnik/styleme) · [Preview ↗](https://styleme-second-v-web.vercel.app)
+* *Links:* [GitHub Repo](https://github.com/IvanSytnik/styleme) · [Preview ↗](https://styleme.sytnik-studio.com)
 
 </details>
 
@@ -72,7 +72,7 @@ I build and ship production web systems and resilient backend services, focusing
 ### 💼 Commercial Delivery & Background
 
 * **Independent Full-Stack Delivery ([Sytnik Studio](https://sytnik-studio.com)):** Providing end-to-end web engineering for small businesses across Austria, Germany, and Ukraine (B2B contracts).
-* **Commercial Systems:** Delivered **[MedConsult Pro](https://github.com/IvanSytnik/medconsult-pro)** ([Live ↗](https://medconsult-pro.vercel.app)), a multilingual lead-generation platform with dual Telegram and SMTP notification channels.
+* **Commercial Systems:** Delivered **[MedConsult Pro](https://github.com/IvanSytnik/medconsult-pro)** ([Live ↗](https://medconsult.sytnik-studio.com)), a multilingual lead-generation platform with dual Telegram and SMTP notification channels.
 * **Teaching & Mentorship:** Former Teaching Assistant at **ROBOCODE** (Villingen-Schwenningen, Germany), teaching programming, C++, and robotics to students aged 7–14.
 * **Education:** **MSc** (2025) and **BSc** in Computer Science, NTU "Kharkiv Polytechnic Institute".
 
