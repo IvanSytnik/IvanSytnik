@@ -74,7 +74,13 @@ I build and ship production web systems and resilient backend services, focusing
 * **Independent Full-Stack Delivery ([Sytnik Studio](https://sytnik-studio.com)):** Providing end-to-end web engineering for small businesses across Austria, Germany, and Ukraine (B2B contracts).
 * **Commercial Systems:** Delivered **[MedConsult Pro](https://github.com/IvanSytnik/medconsult-pro)** ([Live ↗](https://medconsult.sytnik-studio.com)), a multilingual lead-generation platform with dual Telegram and SMTP notification channels.
 * **Teaching & Mentorship:** Former Teaching Assistant at **ROBOCODE** (Villingen-Schwenningen, Germany), teaching programming, C++, and robotics to students aged 7–14.
-* **Education:** **MSc** (2025) and **BSc** in Computer Science, NTU "Kharkiv Polytechnic Institute".
+* **Education & Academic Foundations:**
+  * **MSc in Computer Science (IT Project Management)** · 2024–2025
+    *National Technical University "KhPI"* — one of Ukraine’s premier public engineering research universities (est. 1885; accredited under the European Higher Education Area / Bologna Process).
+    * *Applied Thesis:* Architecture and implementation of **ShopSmart AI** — an optimization engine for budget-constrained grocery planning using FastAPI, React, and GPT-4. Managed via complete Scrum lifecycle (backlog grooming, burn-down analysis, risk mitigation, and automated QA gates).
+  * **BSc in Computer Science** · 2020–2024
+    *National Technical University "KhPI"*
+    * *Applied Thesis:* Engineering an internal Web3 rewards and marketplace ecosystem using Ethereum smart contracts (Solidity), Node.js, React, and MongoDB with cryptographic wallet authentication.
 
 ---
 
