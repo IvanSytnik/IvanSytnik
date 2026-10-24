@@ -1,9 +1,8 @@
 # Ivan Sytnik
-**Full-Stack & Backend Engineer** · TypeScript · Next.js · Node.js · Python
-Graz, Austria · Open to Remote (Europe/Vienna ±2h) & B2B Contracts
-🌐 [sytnik-studio.com](https://sytnik-studio.com) · [LinkedIn](https://linkedin.com/in/ivan-sytnik) · [ivan.sytnik02@gmail.com](mailto:ivan.sytnik02@gmail.com)
-
-I build and ship production web systems and resilient backend services, focusing on concurrency-safe data operations, verifiable backend invariants, and deterministic AI pipelines.
+**Full-Stack & Backend Engineer · TypeScript · Next.js · Node.js · Python**  
+📍 Graz, Austria · Open to Full-Time (On-site / Hybrid / Remote) & B2B Contracts  
+🪪 Full Austrian Labor Market Access (No visa sponsorship required) · 🗣️ EN (Fluent) · DE · UK  
+🌐 [sytnik-studio.com](https://sytnik-studio.com) · [LinkedIn](https://www.linkedin.com/in/ivan-sytnik) · ivan.sytnik02@gmail.com
 
 ---
 
