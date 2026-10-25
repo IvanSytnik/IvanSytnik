@@ -2,7 +2,9 @@
 **Full-Stack & Backend Engineer · TypeScript · Next.js · Node.js · Python**  
 📍 Graz, Austria · Open to Full-Time (On-site / Hybrid / Remote) & B2B Contracts  
 🪪 Authorized to work in Austria, no visa sponsorship required
-🗣️ English (fluent) · German (B1) · Ukrainian · Russian
+
+🗣️ English (fluent) · German (B1) · Ukrainian (native) · Russian (native)
+
 🌐 [sytnik-studio.com](https://sytnik-studio.com) · [LinkedIn](https://www.linkedin.com/in/ivan-sytnik) · ivan.sytnik02@gmail.com
 
 ---
@@ -14,7 +16,6 @@
 * **My Role:** Sole engineer — responsible for data modeling, reservation logic, UI, and deployment.
 * **Technical Solution:** PostgreSQL transactional advisory locks serialize conflicting table-allocation requests. Reservation slots are generated in the `Europe/Vienna` timezone, with DST transitions covered by tests.
 * **Verification:** Runs in daily production and is covered by 58 Vitest tests, including concurrency and DST checks executed with the host timezone set to `America/New_York`.
-* Result: In daily use at the restaurant since [month/year]; handles ~[N] reservations/week with zero double-bookings, replacing per-cover fees of ~€[X]/month.
 * *Stack: Next.js 15, TypeScript, PostgreSQL (Neon), Prisma, Tailwind CSS, Vitest*
 
 #### 2. [DealRadar — Marketplace Valuation Bot](https://github.com/IvanSytnik/dealradar) — [Live Telegram Bot ↗](https://t.me/dealradar_austria_bot)
@@ -22,7 +23,6 @@
 * **My Role:** End-to-end design and implementation: scraping queues, LLM evaluation contour, and AWS deployment.
 * **Technical Solution:** A three-stage filtering pipeline combines lexicon rules, per-watch rules, and batched Anthropic classification under a daily user budget. The system calculates medians per hardware model and includes a transactional data-erasure flow designed to support GDPR Article 17 requests.
 * **Verification:** 262 Vitest tests covering parser health alerts, per-host request throttling with jitter, and scheduler state machines.
-* Result: Daily LLM spend capped at €[X]/user; [N]% of candidate listings are filtered by rules before reaching the LLM stage.
 * *Stack: TypeScript, Node.js 22, grammY, AWS (EC2, S3, CloudFront), Terraform, Docker*
 
 #### 3. [Universal Media Downloader](https://github.com/IvanSytnik/Universal-Media-Downloader) — Async Processing Core
@@ -30,7 +30,6 @@
 * **My Role:** Backend architecture and open-source core implementation.
 * **Technical Solution:** Clean Architecture with a zero-dependency domain; isolates media extraction in dedicated worker processes (`multiprocessing.Process`) that can be forcibly terminated on timeout; a self-hosted Telegram Bot API container sharing a Docker volume with the worker lifts upload limits up to 2000 MB.
 * **Verification:** 343 tests with a 90% coverage gate on core layers; AST-based tests enforcing architectural layer boundaries in CI.
-* Result: Files up to 2 GB delivered (vs. the 50 MB hosted-API limit); [N] GitHub stars, open-source core.
 * *Stack: Python 3.13, aiogram 3, arq, Redis 7, PostgreSQL 16, SQLAlchemy 2, Docker*
 
 ---
@@ -76,7 +75,7 @@
 
 * **Independent Full-Stack Delivery ([Sytnik Studio](https://sytnik-studio.com)):** Providing end-to-end web engineering for small businesses across Austria, Germany, and Ukraine (B2B contracts).
 * **Commercial Systems:** Delivered **[MedConsult Pro](https://github.com/IvanSytnik/medconsult-pro)** ([Live ↗](https://medconsult.sytnik-studio.com)), a multilingual lead-generation platform with dual Telegram and SMTP notification channels.
-* **Teaching & Mentorship:**Former Teaching Assistant at ROBOCODE (Villingen-Schwenningen, Germany, 2024–2026), co-teaching robotics, programming and game development to students aged 7–14.
+* **Teaching & Mentorship:** Former Teaching Assistant at ROBOCODE (Villingen-Schwenningen, Germany, 2024–2026), co-teaching robotics, programming and game development to students aged 7–14.
 * Collaboration: Worked directly with clients (a restaurant owner in Austria, a medical-tourism agency) on requirements, delivery and handover; previously co-taught in a team at ROBOCODE. Open to working in code-review-driven teams.
 * **Education & Academic Foundations:**
   * **MSc in Computer Science (IT Project Management)** · 2024–2025
