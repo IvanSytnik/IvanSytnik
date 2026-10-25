@@ -1,8 +1,8 @@
 # Ivan Sytnik
 **Full-Stack & Backend Engineer · TypeScript · Next.js · Node.js · Python**  
 📍 Graz, Austria · Open to Full-Time (On-site / Hybrid / Remote) & B2B Contracts  
-🪪 Authorized to work in Austria, no visa sponsorship required
-🗣️ English (fluent) · German (B1) · Ukrainian (native) · Russian (native)
+🪪 Authorized to work in Austria, no visa sponsorship required                  
+🗣️ English (fluent) · German (B1) · Ukrainian (native) · Russian (native)                 
 🌐 [sytnik-studio.com](https://sytnik-studio.com) · [LinkedIn](https://www.linkedin.com/in/ivan-sytnik) · ivan.sytnik02@gmail.com
 
 ---
