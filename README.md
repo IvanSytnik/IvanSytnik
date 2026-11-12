@@ -1,9 +1,10 @@
 # Ivan Sytnik
 **Full-Stack & Backend Engineer · TypeScript · Next.js · Node.js · Python**  
 📍 Graz, Austria · Open to Full-Time (On-site / Hybrid / Remote) & B2B Contracts  
-🪪 Authorized to work in Austria, no visa sponsorship required                  
-🗣️ English (fluent) · German (B1) · Ukrainian (native) · Russian (native)                 
-🌐 [sytnik-studio.com](https://sytnik-studio.com) · [LinkedIn](https://www.linkedin.com/in/ivan-sytnik) · ivan.sytnik02@gmail.com
+🪪 Authorized to work in Austria, no visa sponsorship required  
+🗣️ English (fluent) · German (B1) · Ukrainian (native) · Russian (native)  
+🌐 [sytnik-studio.com](https://sytnik-studio.com) · [LinkedIn](https://www.linkedin.com/in/ivan-sytnik) · ivan.sytnik02@gmail.com  
+🚀 **Live demos:** [Restaurant CRM](https://restaurant.sytnik-studio.com) · [ShopSmart AI](https://shopsmart.sytnik-studio.com) · [EnglishLearn](https://englishlearn.sytnik-studio.com) · [StyleMe](https://styleme.sytnik-studio.com) · [DealRadar bot](https://t.me/dealradar_austria_bot)
 
 ---
 
@@ -74,7 +75,7 @@
 * **Independent Full-Stack Delivery ([Sytnik Studio](https://sytnik-studio.com)):** Providing end-to-end web engineering for small businesses across Austria, Germany, and Ukraine (B2B contracts).
 * **Commercial Systems:** Delivered **[MedConsult Pro](https://github.com/IvanSytnik/medconsult-pro)** ([Live ↗](https://medconsult.sytnik-studio.com)), a multilingual lead-generation platform with dual Telegram and SMTP notification channels.
 * **Teaching & Mentorship:** Former Teaching Assistant at ROBOCODE (Villingen-Schwenningen, Germany, 2024–2026), co-teaching robotics, programming and game development to students aged 7–14.
-* Collaboration: Worked directly with clients (a restaurant owner in Austria, a medical-tourism agency) on requirements, delivery and handover; previously co-taught in a team at ROBOCODE. Open to working in code-review-driven teams.
+* **Collaboration:** Worked directly with clients (a restaurant owner in Austria, a medical-tourism agency) on requirements, delivery and handover; previously co-taught in a team at ROBOCODE. Open to working in code-review-driven teams.
 * **Education & Academic Foundations:**
   * **MSc in Computer Science (IT Project Management)** · 2024–2025
     *National Technical University "KhPI"* — one of Ukraine’s premier public engineering research universities (est. 1885; accredited under the European Higher Education Area / Bologna Process).
